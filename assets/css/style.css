@@ -125,7 +125,7 @@ h3 {
 #units p {
   margin-bottom: 10px;
   font-size: 1.4rem;
-}
+  }
 
 #units p:nth-of-type(1) {
   padding-top: 6vh;
@@ -237,6 +237,7 @@ h3 {
 #bear {
   background-color: #000;
   color: white;
+  font-family: larishNeue2;
 }
 
 .gb-h {
@@ -247,6 +248,7 @@ h3 {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  font-family: larishNeue2;
 }
 
 .gb-h p {
