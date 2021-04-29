@@ -19,11 +19,11 @@
 }
 
 @font-face {
-  font-family: larishNeue2;
+  font-family: LarishNeue2;
   src: url("../fonts/Larish\ Neue\ Semibold.woff2");
 }
 @font-face {
-  font-family: larishNeue1;
+  font-family: LarishNeue1;
   src: url("../fonts/LarishNeueSemibold.woff");
 }
 
@@ -54,7 +54,7 @@ footer {
 h1,
 h2,
 h3 {
-  font-family: larishNeue2;
+  font-family: LarishNeue2;
 }
 
 
@@ -237,7 +237,7 @@ h3 {
 #bear {
   background-color: #000;
   color: white;
-  font-family: larishNeue2;
+  font-family: LarishNeue2;
 }
 
 .gb-h {
@@ -248,7 +248,7 @@ h3 {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  font-family: larishNeue2;
+  font-family: LarishNeue2;
 }
 
 .gb-h p {
@@ -399,7 +399,7 @@ h3 {
   transform: rotate(45deg);
   position: absolute;
   width: 100%;
-  top: 20%;
+  top: 10%;
   left: 20%;
 }
 
