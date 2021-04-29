@@ -20,11 +20,11 @@
 
 @font-face {
   font-family: larishNeue2;
-  src: url("./fonts/Larish\ Neue\ Semibold.woff2");
+  src: url("../fonts/Larish\ Neue\ Semibold.woff2");
 }
 @font-face {
   font-family: larishNeue1;
-  src: url("./fonts/LarishNeueSemibold.woff");
+  src: url("../fonts/LarishNeueSemibold.woff");
 }
 
 /* BACKSLIDE */
