@@ -253,11 +253,10 @@ h3 {
 
 .gb-h p {
   font-size: 2rem;
-  padding: 0 12%;
-  
- 
-  
+  padding: 0 12%; 
 }
+
+
 .gb-h div:nth-of-type(1) {
   width: 40%;
   padding: 4%;
@@ -276,6 +275,7 @@ h3 {
   -ms-flex-pack: center;
   justify-content: center;
 }
+
 
 .gb-img {
   display: -webkit-box;
