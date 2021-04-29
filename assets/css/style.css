@@ -254,7 +254,9 @@ h3 {
 .gb-h p {
   font-size: 2rem;
   padding: 0 12%;
-  font-weight: bolder;
+  
+ 
+  
 }
 .gb-h div:nth-of-type(1) {
   width: 40%;
